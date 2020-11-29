@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Netflix
+Comment=Watch Movies TV Shows And More
+Exec=/usr/share/netflix/netflix.sh
+Terminal=false
+Type=Application
+Icon=netflix
+Categories=Network;
+StartupNotify=false
+
